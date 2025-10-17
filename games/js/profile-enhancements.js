@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "“don't diss petite woman they're like pocket femboys — bill cosby”",
     "“Code is like humor. When you have to explain it, it’s bad. — alberto einstein”",
     "“ilovefemboys67 — elli”",
-    "“In a world without fences and walls, who needs Gates and Windows? — nigga gates”",
+    "“In a world without fences and walls, who needs Gates and Windows? — droid gates”",
   ];
   let quoteIndex = 0;
 
@@ -30,3 +30,4 @@ document.addEventListener("DOMContentLoaded", () => {
   // Start typing the first quote and chain the rest
   typeQuote(quotes[quoteIndex], 0, showNextQuote);
 });
+
